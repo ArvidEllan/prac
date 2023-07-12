@@ -14,4 +14,4 @@ def add_milk_please(fat_content):
 
 def give_tip(tip_amount):
     
-    print("Thank you we dont make much")
+    print("Thank you so much ! we dont make much around here .God Bless !! ")

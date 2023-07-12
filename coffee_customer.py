@@ -21,3 +21,8 @@ if "y" in add_milk_reponse.lower():
     shop_says = coffee_shop.add_milk_please(milk_fat)
     
     print(shop_says)
+    
+print("That's Good Coffee !")
+print("you can alway leave a tip")
+tip_amount = input("Tip amount?:   ")
+coffee_shop.give_tip(tip_amount)

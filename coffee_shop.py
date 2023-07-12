@@ -11,3 +11,7 @@ def order_coffee(size, roast):
 def add_milk_please(fat_content):
     
     return "I've added the {}% milk".format(fat_content)
+
+def give_tip(tip_amount):
+    
+    print("Thank you we dont make much")
